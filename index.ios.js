@@ -18,14 +18,14 @@ export default class AwesomeProject extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to My App!
+          Welcome to My ios App!
         </Text>
         <Text style={styles.instructions}>
           So this is React Native, huh?
         </Text>
         <Text style={styles.instructions}>
-          Let me press Cmd+R to reload,{'\n'}
-          Cmd+D or shake for dev menu
+          Rahul is a genius,{'\n'}
+          and I wish I were him.
         </Text>
       </View>
     );
