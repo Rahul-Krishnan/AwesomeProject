@@ -4,7 +4,7 @@
  * https://github.com/facebook/react-native
  * @flow
  */
- 
+
 import React, { Component } from 'react';
 import {
   AppRegistry,
@@ -18,10 +18,10 @@ export default class AwesomeProject extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to My ios App!
+          Welcome to the Hitchhiker's Guide to the Galaxy!
         </Text>
         <Text style={styles.instructions}>
-          So this is React Native, huh?
+          DON'T PANIC!
         </Text>
         <Text style={styles.instructions}>
           Rahul is a genius,{'\n'}
