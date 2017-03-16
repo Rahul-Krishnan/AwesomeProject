@@ -21,7 +21,7 @@ export default class AwesomeProject extends Component {
           Welcome to the Hitchhiker's Guide to the Galaxy!
         </Text>
         <Text style={styles.instructions}>
-          DON'T PANIC!
+          ** DON'T PANIC **
         </Text>
         <Text style={styles.instructions}>
           Rahul is a genius,{'\n'}
