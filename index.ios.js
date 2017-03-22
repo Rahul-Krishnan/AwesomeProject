@@ -18,14 +18,14 @@ export default class AwesomeProject extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to the Hitchhiker's Guide to the Galaxy!
+          The Hitchhiker's Guide to the Galaxy!
         </Text>
         <Text style={styles.instructions}>
           ** DON'T PANIC **
         </Text>
         <Text style={styles.instructions}>
-          Rahul is a genius,{'\n'}
-          and I wish I were him.
+          Have towel{'\n'}
+          Will travel
         </Text>
       </View>
     );
